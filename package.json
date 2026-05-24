@@ -1,0 +1,11 @@
+{
+  "name": "erc7683-crosschain-intent-settler",
+  "version": "1.0.0",
+  "description": "ERC-7683 Cross-Chain Intents implementation boilerplate",
+  "main": "solver.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
